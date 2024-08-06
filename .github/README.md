@@ -54,7 +54,7 @@ We welcome contributions to improve this project. To contribute, please follow t
 
 ### Code of Conduct
 
-Please note that this project is released with a [Contributor Code of Conduct](Code_of_Conduct). By participating in this project, you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/Jyotibrat/Banking-System-using-Tkinter/blob/main/.github/CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
 
 Thank you for contributing!
 
