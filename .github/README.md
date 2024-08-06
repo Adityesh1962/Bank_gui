@@ -33,7 +33,7 @@ Welcome to the Banking System Application! This project provides a graphical int
 
 3. Run the application:
     ```bash
-    python banking_system.py
+    python3 GUI_Project.py
     ```
 
 ## Contribution Guidelines
