@@ -12,4 +12,4 @@ These files are for archival purposes only. For the latest version of the applic
 
 ## Contribution
 
-Contributions to the archived files are not accepted. If you wish to contribute to the project, please refer to the [main repository](.github/README.md) and follow the contribution guidelines there.
+Contributions to the archived files are not accepted. If you wish to contribute to the project, please refer to the [main repository](https://github.com/Jyotibrat/Banking-System-using-Tkinter/blob/main/.github/README.md) and follow the contribution guidelines there.
